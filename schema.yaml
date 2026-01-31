@@ -1,0 +1,13 @@
+title: GameDeploy manifest schema
+description: A schema to validate a GameDeploy manifest.yaml
+type: object
+required:
+  - name
+  - description
+properties:
+  name:
+    type: string
+    description: The name of manifest
+  description:
+    type: string
+    description: The description of manifest
