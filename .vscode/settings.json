@@ -1,5 +1,5 @@
 {
     "yaml.schemas": {
-        "./schema.yaml": [ "scenario.yaml" ]
+        "./schema.yaml": [ "scenario.yml", "scenario.yaml" ]
     }
 }
